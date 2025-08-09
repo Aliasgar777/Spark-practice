@@ -1,0 +1,10 @@
+Hello world this is a Spark example
+We are learning Apache Spark with Java
+Spark is great for big data processing
+Java works well with Spark Dataset API
+FlatMap splits lines into multiple words
+Dataset transformations are lazily evaluated
+Actions trigger the execution of transformations
+Big data processing can be fun and challenging
+This is the ninth line in our file
+Finally we have reached the tenth line
