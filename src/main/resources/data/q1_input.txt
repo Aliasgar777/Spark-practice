@@ -1,0 +1,4 @@
+hello world
+spark is fast
+hello spark
+big data is powerful
