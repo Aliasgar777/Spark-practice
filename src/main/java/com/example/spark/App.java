@@ -45,8 +45,23 @@ public class App
 //        question12 obj12 = new question12();
 //        obj12.top5Words(spark);
 
+//        question13 obj13 = new question13();
+//        obj13.co_Occurences(spark);
 
+//        question14 obj14 = new question14();
+//        obj14.runningTotal(spark);
 
+//        question15 obj15 = new question15();
+//        obj15.CsvToParquet(spark);
+//
+//        question16 obj16 = new question16();
+//        obj16.filterNullEmptyVal(spark);
+
+//        question17 obj17 = new question17();
+//        obj17.pivot(spark);
+
+        question18 obj18 = new question18();
+        obj18.unPivot(spark);
 
         spark.stop();
 

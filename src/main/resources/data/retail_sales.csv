@@ -1,0 +1,9 @@
+Store,Product,Month,Sales
+StoreA,Apples,Jan,120
+StoreA,Apples,Feb,150
+StoreA,Oranges,Jan,100
+StoreA,Oranges,Feb,90
+StoreB,Apples,Jan,200
+StoreB,Apples,Feb,220
+StoreB,Oranges,Jan,180
+StoreB,Oranges,Feb,170

@@ -1,0 +1,11 @@
+date,product,quantity,price
+2025-08-01,Laptop,2,800
+2025-08-02,Phone,,600
+2025-08-03,,3,150
+2025-08-04,Tablet,1,
+2025-08-05,Headphones,2,50
+2025-08-06,,,
+2025-08-07,Smartwatch,1,200
+2025-08-08,Monitor,,300
+,Mouse,5,25
+2025-08-10,Keyboard,,""
