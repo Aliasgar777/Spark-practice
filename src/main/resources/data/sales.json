@@ -1,0 +1,12 @@
+[
+  { "product": "Laptop", "quantity": 5, "price": 70000 },
+  { "product": "Mobile", "quantity": 10, "price": 25000 },
+  { "product": "Tablet", "quantity": 7, "price": 15000 },
+  { "product": "Laptop", "quantity": 3, "price": 68000 },
+  { "product": "Mobile", "quantity": 6, "price": 27000 },
+  { "product": "Headphones", "quantity": 15, "price": 2000 },
+  { "product": "Tablet", "quantity": 4, "price": 15500 },
+  { "product": "Laptop", "quantity": 2, "price": 72000 },
+  { "product": "Headphones", "quantity": 10, "price": 2200 },
+  { "product": "Smartwatch", "quantity": 8, "price": 5000 }
+]
