@@ -60,8 +60,16 @@ public class App
 //        question17 obj17 = new question17();
 //        obj17.pivot(spark);
 
-        question18 obj18 = new question18();
-        obj18.unPivot(spark);
+//        question18 obj18 = new question18();
+//        obj18.unPivot(spark);
+
+//        question19 obj19 = new question19();
+//        obj19.joins(spark);
+
+//        question20 obj20 = new question20();
+//        obj20.movingfAvg(spark);
+
+        question21 obj21 = new question21();
 
         spark.stop();
 
