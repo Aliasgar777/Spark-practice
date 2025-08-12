@@ -69,7 +69,21 @@ public class App
 //        question20 obj20 = new question20();
 //        obj20.movingfAvg(spark);
 
-        question21 obj21 = new question21();
+//        question21 obj21 = new question21();
+//        obj21.etlPipeline(spark);
+
+//        question22 obj22 = new question22();
+//        obj22.tokenize(spark);
+
+//        question23 obj23 = new question23();
+//        obj23.correlation(spark);
+
+//        question24 obj24 = new question24();
+//        obj24.filter(spark);
+
+//        question25 obj25 = new question25();
+//        obj25.repartitionAndCoalesce(spark);
+
 
         spark.stop();
 
