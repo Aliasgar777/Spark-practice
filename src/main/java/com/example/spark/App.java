@@ -84,6 +84,23 @@ public class App
 //        question25 obj25 = new question25();
 //        obj25.repartitionAndCoalesce(spark);
 
+//        question26 obj26 = new question26();
+//        obj26.cacheAndPersist(spark);
+
+//        question27 obj27 = new question27();
+//        obj27.broadcastVariables(spark);
+
+//        question28 obj28 = new question28();
+//        obj28.accumulator(spark);
+
+//        question29 obj29 = new question29();
+//        obj29.salting(spark);
+
+//        case_study1 obj = new case_study1();
+//        obj.sales(spark);
+
+        case_study1 obj = new case_study1();
+        obj.sales(spark);
 
         spark.stop();
 
